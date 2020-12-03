@@ -1,5 +1,5 @@
 Working :
-1. Build docker image as I was facing some issues with available public images for different browsers
+1. Build docker image by itself for the solution. 
 2. Script will build docker image and spawns containers for respective browsers and perform required operations. Presign url will be printed as output for the script.
 
 Content in Zip:
